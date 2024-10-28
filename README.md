@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello! I am a Registered Mechanical Engineer from Southern Luzon State University with a keen interest in deciphering patterns in data and driving impactful, data-backed decisions.<br>
+Hello! I am a Registered Mechanical Engineer from Southern Luzon State University with a keen interest in Data Analytics, Engineering and Machine Learning deciphering patterns in data and driving impactful, data-backed decisions.<br>
+
+![Data Showcase](https://github.com/user-attachments/assets/a5931059-119b-49e9-bc84-e93185abb9ea)
 
 
 ## 🌐 Socials:
